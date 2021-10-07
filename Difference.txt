@@ -1,0 +1,1 @@
+Repositories in GIT can be Normal or Bare. A git repo has 2 parts: a. the repo and b. the workspace
